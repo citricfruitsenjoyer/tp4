@@ -1,0 +1,7 @@
+variar altura
+trazar lineas en la celda de peltier para ver si la distribucion de temperatura es uniforme o no 
+ver de conectar el tester a la pc 
+
+hechas:
+medimos en angulo y grabamos como varia la temperatura, variar las lineas, grabar y plotear temperaturas a la vez
+sacamos el cuadrado de bronce encima del bloque de bronce y pusimos la celda peltier sobre la pasta termica y el cilindro de bronce
