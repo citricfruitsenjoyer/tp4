@@ -21,7 +21,7 @@ start=time.time()
 #     vidcap.release()
 #     print(f'the end {i}',time.time()-start)
 
-for i in range(4,5):
+for i in range(2,3):
     vidcap = cv2.VideoCapture(names[i-1])
     success, image = vidcap.read()
     count = 0
