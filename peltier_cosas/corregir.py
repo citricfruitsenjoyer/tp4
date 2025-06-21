@@ -12,7 +12,7 @@ for i in range(5,5):
 
 # i=1
 
-for i in range(9,12):
+for i in range(12,21):
     df=pd.read_csv(f'peltier_cosas/peltier_{i}.csv')
     df.columns=['t','temp']
     # Convert to datetime

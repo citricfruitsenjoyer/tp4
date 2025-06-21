@@ -1,11 +1,11 @@
 import pandas as pd
 
 
-i=11
+i=17
 print(i)
 df=pd.read_csv(f'procesados/video{i}_Lab_sliced.csv')
 
-df = df[47:]
+df = df[481:]
 
 df['t']=df['t']-df['t'].iloc[0]
 df['t'] = df['t'].round(2)
